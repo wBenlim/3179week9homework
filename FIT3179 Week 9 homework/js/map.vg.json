@@ -44,5 +44,6 @@
         ]
       }
     }
-  ]
+  ],
+  "projection": {"type": "mercator", "center": [100, -50], "scale": 300}
 }
