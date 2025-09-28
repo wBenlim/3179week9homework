@@ -24,7 +24,7 @@
       },
       "mark": "circle",
       "encoding": {
-        "longitude": {"field": "decimalLongitud", "type": "quantitative"},
+        "longitude": {"field": "decimalLongitude", "type": "quantitative"},
         "latitude": {"field": "decimalLatitude", "type": "quantitative"},
         "size": {
           "aggregate": "count",
@@ -40,10 +40,9 @@
           {"field": "vernacularName", "type": "nominal"},
           {"field": "scientificName", "type": "nominal"},
           {"field": "decimalLatitude", "type": "quantitative"},
-          {"field": "decimalLongitud", "type": "quantitative"}
+          {"field": "decimalLongitude", "type": "quantitative"}
         ]
       }
     }
-  ],
-  "projection": {"type": "mercator", "center": [135, -25], "scale": 800}
+  ]
 }
