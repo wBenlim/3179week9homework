@@ -6,21 +6,21 @@
   "layer": [
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/wBenlim/3179week9homework/main/FIT3179%20Week%209%20homework/js/Australiamapwithgraticules.topojson",
+        "url": "https://raw.githubusercontent.com/wBenlim/3179week9homework/main/js/Australiamapwithgraticules.topojson",
         "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
       },
       "mark": {"type": "geoshape", "fill": "beige", "stroke": "white"}
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/wBenlim/3179week9homework/main/FIT3179%20Week%209%20homework/js/Australiamapwithgraticules.topojson",
+        "url": "https://raw.githubusercontent.com/wBenlim/3179week9homework/main/js/Australiamapwithgraticules.topojson",
         "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
       },
       "mark": {"type": "geoshape", "fill": "transparent", "stroke": "red", "opacity": 0.3}
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/wBenlim/3179week9homework/main/FIT3179%20Week%209%20homework/data/MacaroniPenguin.csv"
+        "url": "https://raw.githubusercontent.com/wBenlim/3179week9homework/main/data/MacaroniPenguin.csv"
       },
       "mark": "circle",
       "encoding": {
