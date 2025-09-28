@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Macaroni Penguin Foraging Zones (Heard Island)",
+  "title": "Macaroni Penguin Foraging Zones as time progress (Heard Island)",
   "width": 600,
   "height": 500,
   "layer": [
