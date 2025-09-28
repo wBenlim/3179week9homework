@@ -40,7 +40,8 @@
           {"field": "vernacularName", "type": "nominal"},
           {"field": "scientificName", "type": "nominal"},
           {"field": "decimalLatitude", "type": "quantitative"},
-          {"field": "decimalLongitude", "type": "quantitative"}
+          {"field": "decimalLongitude", "type": "quantitative"},
+          {"field": "day", "type": "ordinal"}
         ]
       }
     }
